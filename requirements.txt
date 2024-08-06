@@ -14,8 +14,6 @@ contourpy==1.2.1
 cycler==0.12.1
 dnspython==2.6.1
 email_validator==2.2.0
-fastapi
-fastapi-cli==0.0.4
 ffmpy==0.4.0
 filelock==3.15.4
 fonttools==4.53.1
@@ -28,8 +26,6 @@ google-auth==2.32.0
 google-auth-httplib2==0.2.0
 googleapis-common-protos==1.63.2
 googletrans==4.0.0rc1
-gradio==4.40.0
-gradio_client==1.2.0
 h11==0.9.0
 h2==3.2.0
 hpack==3.0.0
@@ -37,7 +33,7 @@ hstspreload==2024.8.1
 httpcore==0.9.1
 httplib2==0.22.0
 httptools==0.6.1
-httpx
+httpx==0.13.3
 huggingface-hub==0.24.5
 hyperframe==5.2.0
 idna==2.10
